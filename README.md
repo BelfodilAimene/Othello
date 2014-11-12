@@ -1,3 +1,3 @@
 Othello
 =======
-Un projet Prolog. Implémentation de 3 IA en utilisant Othello
+Un projet Prolog. Implémentation de 3 IA dans Othello en utilisant prolog
